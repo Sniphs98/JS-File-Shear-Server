@@ -35,6 +35,6 @@
 	"type": "module",
 	"dependencies": {
 		"@sveltejs/adapter-node": "^1.2.3",
-		"svelte-file-dropzone": "^1.0.0"
+		"svelte-file-dropzone": "^2.0.7"
 	}
 }
